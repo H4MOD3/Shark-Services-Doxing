@@ -1,4 +1,6 @@
-# Python Tutorial - || Hunt Down Social Media Accounts by Usernames for Open-Source Intelligence || Looking-Glass v1.0
+# Python - || Hunt Down Social Media Accounts by Usernames for Open-Source Intelligence || Shark Services
+
+![image](https://user-images.githubusercontent.com/111201336/206578707-3a1ff8ef-9979-42b5-87fe-a766459fe1ab.png)
 
 This tool is a Python OSINT (Open-Source Intelligence Tool) for finding information on people that you do not know, but have only a social media/site username of the target.
 
