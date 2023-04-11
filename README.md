@@ -12,7 +12,7 @@ Also, it is likely that people slip up somewhere and you can find data on where 
 
 *#python* *#tutorial* *#simple* *#username* *#doxing* *#dox* *#doxology* *#doxer* *#search* *#find* *#how* *#to* *#missing* *#people* *OSINT* *open* *source* *intelligence* *#hacking* *#info* *#sec* *#security* *#look* *#looking* *#glass* *#easy* *#python3*
 
-**[Join our Discord Server:](https://discord.gg/DgW9pUJ5RG)**
+**[Join our Discord Server:](https://discord.gg/shark-services-v2)**
 
 ## Built With
 
